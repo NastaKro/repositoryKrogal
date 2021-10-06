@@ -1,0 +1,14 @@
+﻿"трпо№3.exe" (Win32). Загружено "C:\Users\Анастасия\source\repos\трпо№3\Debug\трпо№3.exe". Символы загружены.
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x4f54 завершился с кодом 0 (0x0).
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"трпо№3.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x4df4 завершился с кодом 0 (0x0).
+Поток 0x2f68 завершился с кодом 0 (0x0).
+Программа "[19164] трпо№3.exe" завершилась с кодом 0 (0x0).
